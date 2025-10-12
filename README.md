@@ -43,7 +43,7 @@ Frontend
 - Участие в митапах и frontend сообществе
 - Continuous Learning: Слежу за трендами в веб-разработке
 
-📫 Связаться со мной
+📫 Связаться со мной  
 <a href="https://t.me/DenisShaitanov" rel="nofollow">
 <img src="https://camo.githubusercontent.com/e327c58c07a7a46f597fa9d187461c523c5c0d9c5722713d3d866203a6141c54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3243413545303f7374796c653d666c61742d737175617265266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram" data-canonical-src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;">
 </a>
