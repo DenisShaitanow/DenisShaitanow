@@ -6,16 +6,16 @@
 Frontend
 JavaScript TypeScript React Vue.js Next.js HTML5 CSS3 Sass
 
-UI/UX & Styling
+🖌 UI/UX & Styling
 CSS Components Figma
 
-Инструменты разработки
+🔨 Инструменты разработки
 Webpack Vite ESLint Prettier
 
-Тестирование
+🔎 Тестирование
 Jest Testing Library Cypress
 
-Инструменты
+🪓 Инструменты
 Git GitHub GitLab VS Code
 
 💼 Ключевые навыки
