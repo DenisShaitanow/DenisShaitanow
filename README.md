@@ -8,22 +8,22 @@
 ## Frontend  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![JavaScript](https://img.shields.io/badge/TypeScript-BD2626?style=for-the-badge&logo=typescript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-BD2626?style=for-the-badge&logo=typescript&logoColor=black)
 
-![JavaScript](https://img.shields.io/badge/React-038f4b?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-038f4b?style=for-the-badge&logo=react&logoColor=black)
 
-![JavaScript](https://img.shields.io/badge/VUE.js-F7DF1E?style=for-the-badge&logo=vuedotjs&logoColor=black)
+![VUE.js](https://img.shields.io/badge/VUE.js-F7DF1E?style=for-the-badge&logo=vuedotjs&logoColor=black)
 
-![JavaScript](https://img.shields.io/badge/HTML5-3c7019?style=for-the-badge&logo=html5&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-3c7019?style=for-the-badge&logo=html5&logoColor=black)
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/Next.js-BD2626?style=for-the-badge&logo=nextdotjs&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-BD2626?style=for-the-badge&logo=nextdotjs&logoColor=black)
 ------------------------------------------------------------------------------------
 ## 🖌 UI/UX & Styling  
- ![JavaScript](https://img.shields.io/badge/StyledComponents-3c7019?style=for-the-badge)
+ ![Styled.Components](https://img.shields.io/badge/Styled.Components-3c7019?style=for-the-badge)
 
-![CSS3](https://img.shields.io/badge/FIGMA-1572B6?style=for-the-badge&logo=figma3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🔨 Инструменты разработки  
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/96651fc2757a15ee4aeb1dae277db2dfaca61b4ce95657bd7f8b45fddb3997de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765627061636b2d3844443646393f7374796c653d666c61742d737175617265266c6f676f3d7765627061636b266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/96651fc2757a15ee4aeb1dae277db2dfaca61b4ce95657bd7f8b45fddb3997de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765627061636b2d3844443646393f7374796c653d666c61742d737175617265266c6f676f3d7765627061636b266c6f676f436f6c6f723d626c61636b" alt="Webpack" data-canonical-src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&amp;logo=webpack&amp;logoColor=black" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/82eaad7052dfe8be6d224d9f6879a74f71b49d07fa7442ac1883fe64bf92ff87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d566974652d3634364346463f7374796c653d666c61742d737175617265266c6f676f3d76697465266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/82eaad7052dfe8be6d224d9f6879a74f71b49d07fa7442ac1883fe64bf92ff87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d566974652d3634364346463f7374796c653d666c61742d737175617265266c6f676f3d76697465266c6f676f436f6c6f723d7768697465" alt="Vite" data-canonical-src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3618d713771b9cd696f061a11089ffdd33d106bd261065b52241bb2a6df1855a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45534c696e742d3442333243333f7374796c653d666c61742d737175617265266c6f676f3d65736c696e74266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/3618d713771b9cd696f061a11089ffdd33d106bd261065b52241bb2a6df1855a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45534c696e742d3442333243333f7374796c653d666c61742d737175617265266c6f676f3d65736c696e74266c6f676f436f6c6f723d7768697465" alt="ESLint" data-canonical-src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&amp;logo=eslint&amp;logoColor=white" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/319dec6db4a24105fada838f86fd5bf9bb1789a59a9ab2592e9abd143b7247ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50726574746965722d4637423933453f7374796c653d666c61742d737175617265266c6f676f3d7072657474696572266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/319dec6db4a24105fada838f86fd5bf9bb1789a59a9ab2592e9abd143b7247ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50726574746965722d4637423933453f7374796c653d666c61742d737175617265266c6f676f3d7072657474696572266c6f676f436f6c6f723d626c61636b" alt="Prettier" data-canonical-src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&amp;logo=prettier&amp;logoColor=black" style="max-width: 100%;"></a>
