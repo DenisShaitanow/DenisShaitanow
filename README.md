@@ -35,6 +35,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-2344a6?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-4B32C3?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
 ## 💼 Ключевые навыки  
