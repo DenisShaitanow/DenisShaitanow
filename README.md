@@ -58,7 +58,7 @@
 
 
 
-
+### PET PROJECT "Магазин на REACT"
 <a href="https://github.com/DenisShaitanow/store-by-react">
   <img src="https://img.shields.io/badge/Project STORE BY REACT-2344a6?style=for-the-badge&logo=react" alt="Проект: Магазин на реакте">
 </a>
@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/Посмотреть реализацию проекта-2344a6?style=for-the-badge&logo=react" alt="Проект: Магазин на реакте">
 </a>
 
-
+### PET PROJECT "Магазин на VUE"
 <a href="https://github.com/DenisShaitanow/store-by-vue_petProject">
   <img src="https://img.shields.io/badge/Project STORE BY VUE-BD2626?style=for-the-badge&logo=vuedotjs" alt="Проект: Магазин на VUE">
 </a>
