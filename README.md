@@ -59,7 +59,7 @@
 
 
 ### PET PROJECT "Магазин на REACT"
-<a href="https://github.com/DenisShaitanow/store-by-react">
+<a href="https://denisshaitanow.github.io/store-by-react_petProject/">
   <img src="https://img.shields.io/badge/Project STORE BY REACT-2344a6?style=for-the-badge&logo=react" alt="Проект: Магазин на реакте">
 </a>
 <a href="https://denisshaitanow.github.io/store-by-react/">
