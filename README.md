@@ -70,7 +70,7 @@
 <a href="https://github.com/DenisShaitanow/store-by-vue_petProject">
   <img src="https://img.shields.io/badge/Project STORE BY VUE-BD2626?style=for-the-badge&logo=vuedotjs" alt="Проект: Магазин на VUE">
 </a>
-<a href="https://denisshaitanow.github.io/store-by-vue_petProject/">
+<a href="https://denisshaitanow.github.io/store-by-react_petProject/">
   <img src="https://img.shields.io/badge/Посмотреть реализацию проекта-BD2626?style=for-the-badge&logo=vuedotjs" alt="Проект: Магазин на VUE">
 </a>
 
