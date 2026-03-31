@@ -77,7 +77,7 @@
   
 ### PET PROJECT "Визитка фотографа"
 <a href="https://github.com/DenisShaitanow/photo_Page-pet">
-  <img src="https://img.shields.io/badge/Project STORE BY VUE-2059bd?style=for-the-badge&logo=js" alt="Проект: Визитка фотографа">
+  <img src="https://img.shields.io/badge/Визитка фотографа на JS-2059bd?style=for-the-badge&logo=javascript" alt="Проект: Визитка фотографа">
 </a>
 
 <a href="https://denisshaitanow.github.io/photo_Page-pet/ ">
