@@ -74,6 +74,16 @@
   <img src="https://img.shields.io/badge/Посмотреть реализацию проекта-BD2626?style=for-the-badge&logo=vuedotjs" alt="Проект: Магазин на VUE">
 </a>
 
+  
+### PET PROJECT "Визитка фотографа"
+<a href="https://github.com/DenisShaitanow/photo_Page-pet">
+  <img src="https://img.shields.io/badge/Project STORE BY VUE-2059bd?style=for-the-badge&logo=js" alt="Проект: Визитка фотографа">
+</a>
+
+<a href="https://denisshaitanow.github.io/photo_Page-pet/ ">
+  <img src="https://img.shields.io/badge/Посмотреть реализацию проекта-2059bd?style=for-the-badge&logo=js" alt="Проект: Визитка фотографа">
+</a>
+
 ## 🌟 Дополнительные навыки
 - Soft Skills: Коммуникация, презентация решений, управление временем
 - Участие в митапах и frontend сообществе
