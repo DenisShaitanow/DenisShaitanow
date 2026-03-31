@@ -68,20 +68,20 @@
 
 ### PET PROJECT "Магазин на VUE"
 <a href="https://github.com/DenisShaitanow/store-by-vue_petProject">
-  <img src="https://img.shields.io/badge/Project STORE BY VUE-BD2626?style=for-the-badge&logo=vuedotjs" alt="Проект: Магазин на VUE">
+  <img src="https://img.shields.io/badge/Project STORE BY VUE-abd27a?style=for-the-badge&logo=vuedotjs" alt="Проект: Магазин на VUE">
 </a>
 <a href="https://denisshaitanow.github.io/store-by-vue_petProject/">
-  <img src="https://img.shields.io/badge/Посмотреть реализацию проекта-BD2626?style=for-the-badge&logo=vuedotjs" alt="Проект: Магазин на VUE">
+  <img src="https://img.shields.io/badge/Посмотреть реализацию проекта-abd27a?style=for-the-badge&logo=vuedotjs" alt="Проект: Магазин на VUE">
 </a>
 
   
 ### PET PROJECT "Визитка фотографа"
 <a href="https://github.com/DenisShaitanow/photo_Page-pet">
-  <img src="https://img.shields.io/badge/Визитка фотографа на JS-2059bd?style=for-the-badge&logo=javascript" alt="Проект: Визитка фотографа">
+  <img src="https://img.shields.io/badge/Визитка фотографа на JS-abd27a?style=for-the-badge&logo=javascript" alt="Проект: Визитка фотографа">
 </a>
 
 <a href="https://denisshaitanow.github.io/photo_Page-pet/ ">
-  <img src="https://img.shields.io/badge/Посмотреть реализацию проекта-2059bd?style=for-the-badge&logo=js" alt="Проект: Визитка фотографа">
+  <img src="https://img.shields.io/badge/Посмотреть реализацию проекта-abd27a?style=for-the-badge&logo=js" alt="Проект: Визитка фотографа">
 </a>
 
 ## 🌟 Дополнительные навыки
