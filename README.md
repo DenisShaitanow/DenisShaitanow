@@ -60,10 +60,10 @@
 
 ### PET PROJECT "Магазин на REACT"
 <a href="https://github.com/DenisShaitanow/store-by-react_petProject">
-  <img src="https://img.shields.io/badge/Project STORE BY REACT-abd27a?style=for-the-badge&logo=react-red" alt="Проект: Магазин на реакте">
+  <img src="https://img.shields.io/badge/Project STORE BY REACT-abd27a?style=for-the-badge&logo=react&logoColor=white" alt="Проект: Магазин на реакте">
 </a>
 <a href="https://denisshaitanow.github.io/store-by-react_petProject/">
-  <img src="https://img.shields.io/badge/Посмотреть реализацию проекта-abd27a?style=for-the-badge&logo=react-red" alt="Проект: Магазин на реакте">
+  <img src="https://img.shields.io/badge/Посмотреть реализацию проекта-abd27a?style=for-the-badge&logo=react&logoColor=white" alt="Проект: Магазин на реакте">
 </a>
 
 ### PET PROJECT "Магазин на VUE"
