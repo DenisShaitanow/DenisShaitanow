@@ -12,14 +12,7 @@
 ![VUE.js](https://img.shields.io/badge/VUE.js-F7DF1E?style=for-the-badge&logo=vuedotjs&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-3c7019?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-BD2626?style=for-the-badge&logo=nextdotjs&logoColor=black)
-![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![ORM](https://img.shields.io/badge/ORM-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-00BFFF?style=for-the-badge&logo=yandexcloud&logoColor=white)  
-![SSR](https://img.shields.io/badge/SSR-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
+
 ------------------------------------------------------------------------------------
 ## 🖌 UI/UX & Styling  
  ![Styled.Components](https://img.shields.io/badge/Styled.Components-3c7019?style=for-the-badge)
@@ -31,6 +24,15 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+
+![Next.js](https://img.shields.io/badge/Next.js-BD2626?style=for-the-badge&logo=nextdotjs&logoColor=black)
+![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![ORM](https://img.shields.io/badge/ORM-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-00BFFF?style=for-the-badge&logo=yandexcloud&logoColor=white)  
+![SSR](https://img.shields.io/badge/SSR-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
 
 ## 🔎 Тестирование  
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
