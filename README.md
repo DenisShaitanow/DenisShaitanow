@@ -19,7 +19,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-00BFFF?style=for-the-badge&logo=yandexcloud&logoColor=white)  
 ![SSR](https://img.shields.io/badge/SSR-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
 ------------------------------------------------------------------------------------
 ## 🖌 UI/UX & Styling  
  ![Styled.Components](https://img.shields.io/badge/Styled.Components-3c7019?style=for-the-badge)
