@@ -17,9 +17,9 @@
 ![ORM](https://img.shields.io/badge/ORM-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-00BFFF?style=for-the-badge&logo=yandexcloud&logoColor=white)
-![SSR](https://img.shields.io/badge/SSR-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-00BFFF?style=for-the-badge&logo=yandexcloud&logoColor=white)  
+![SSR](https://img.shields.io/badge/SSR-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
 ------------------------------------------------------------------------------------
 ## 🖌 UI/UX & Styling  
  ![Styled.Components](https://img.shields.io/badge/Styled.Components-3c7019?style=for-the-badge)
