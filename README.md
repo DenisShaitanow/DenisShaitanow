@@ -83,6 +83,10 @@
   <img src="https://img.shields.io/badge/Посмотреть реализацию проекта-abd27a?style=for-the-badge&logo=vuedotjs&logoColor=000000" alt="Проект: Магазин на VUE">
 </a>
 
+### PET PROJECT "Магазин на NextJS"
+<a href="[https://github.com/DenisShaitanow/store-by-vue_petProject](https://github.com/DenisShaitanow/store-by-nextJS)">
+  <img src="https://img.shields.io/badge/Project-STORE%20BY%20NEXT.js-abd27a?style=for-the-badge&logo=next.js&logoColor=000000" alt="Проект: Магазин на NextJS">
+</a>
   
 ### PET PROJECT "Визитка фотографа"
 <a href="https://github.com/DenisShaitanow/photo_Page-pet">
