@@ -85,7 +85,7 @@
 
 ### PET PROJECT "Магазин на NextJS"
 <a href="https://github.com/DenisShaitanow/store-by-nextJS">
-  <img src="https://img.shields.io/badge/Project-STORE%20BY%20NEXT.js-abd27a?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Проект: Магазин на NextJS">
+  <img src="https://img.shields.io/badge/Project-STORE%20BY%20NEXT.js-abd37a?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Проект: Магазин на NextJS">
 </a>
   
 ### PET PROJECT "Визитка фотографа"
